@@ -1,5 +1,7 @@
 # GitClips
 
+https://gitclips.com
+
 GitClips is an AI faceless video generator that automatically creates and publishes content for TikTok, Instagram Reels, and YouTube Shorts.
 
 ## Popular Tools
